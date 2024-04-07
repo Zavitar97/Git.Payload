@@ -1,4 +1,4 @@
-# payloads
+# Payloads
 Git All the Payloads! A collection of web attack payloads. Pull requests are welcome!
 
 ### Usage
@@ -75,7 +75,7 @@ run `./get.sh` to download external payloads and unzip any payload files that ar
 - commandinjection/ismailtasdelen-unix.txt - https://github.com/ismailtasdelen/command-injection-payload-list
 - commandinjection/ismailtasdelen-windows.txt - https://github.com/ismailtasdelen/command-injection-payload-list
 
-#### ctf
+#### CTF
 
 Requests extracted from either packet captures or log files of capture the flag (ctf) events. Mostly raw data so not all requests are actual payloads, however requests should be deduplicated.
 
